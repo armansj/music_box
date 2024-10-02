@@ -28,3 +28,12 @@ Available Voice Commands:
 "Melissa, stop music" – Stops the current track.
 "Melissa, next music" – Skips to the next track.
 "Melissa, play random music" – Plays a random track from the music library.
+
+Melissa: "Hello Arman. How are you?"
+User: "Not bad."
+Melissa: "What can I do for you?"
+User: "Play music."
+Melissa: "Which music would you like to play?"
+User: "Track one."
+Melissa: "Playing track one."
+
